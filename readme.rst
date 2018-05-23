@@ -1,4 +1,31 @@
 ###################
+Code Igniter Basic Application
+###################
+
+This repository contains a very simple webpage with login, registration and notes.
+
+Most of the code is commented, whether by me or by CodeIgniter team themselves.
+
+Frist of all check there files:
+
+-> application/config/database.php
+-> application/config/config.php
+-> application/config/routes.php
+
+set your database, your url based on the localhost port or server URL:
+
+Then you can check any other file, but I recommended the /controller and the /model
+folders, because there's all the logic of the login and registration.
+
+I just Wanna remind everyone that this is not an oficial CodeIgniter Basic
+Application, this is an customized one in with i have implemented the login and register logic
+
+You can find everything about codeIgniter in https://codeigniter.com/
+
+Here it goes the CI original README file:
+
+
+###################
 What is CodeIgniter
 ###################
 

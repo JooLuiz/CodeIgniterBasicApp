@@ -1,4 +1,0 @@
-Escolhi criar um Database chamado money e colocar nele três colunas,
-uma com a data, uma com o nome do produto, uma com o preço desse produto,
-uma com o tipo, se foi dinheiro ganhado ou perdido, e uma ultima couna
-com o lugar de onde esse dinheiro veio ou para onde foi.
