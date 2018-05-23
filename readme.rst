@@ -9,9 +9,16 @@ Most of the code is commented, whether by me or by CodeIgniter team themselves.
 Frist of all check there files:
 
 -> application/config/database.php
+
 -> application/config/config.php
+
 -> application/config/routes.php
 
+In the repo there are the database tables that I used in this Application.
+notes.sql and users.sql
+
+Check it out and change it as you wish.
+ 
 set your database, your url based on the localhost port or server URL:
 
 Then you can check any other file, but I recommended the /controller and the /model
